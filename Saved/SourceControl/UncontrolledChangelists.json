@@ -7,6 +7,12 @@
 			"files": [
 				"/Users/keshavagarwal/CS415_Final/Content/_Main/Zombie/Animations/ZombieBS.uasset",
 				"/Users/keshavagarwal/CS415_Final/Content/_Main/Zombie/Animations/ZombieAnimBP.uasset",
+				"/Users/keshavagarwal/CS415_Final/Content/_Main/Zombie/BP_Zombie.uasset",
+				"/Users/keshavagarwal/CS415_Final/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/5Q/K4O508SWZ1NLRKITXPK2HF.uasset",
+				"/Users/keshavagarwal/CS415_Final/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/Z8/RQOUI3JJB5SZ2ZB2OL00Q5.uasset",
+				"/Users/keshavagarwal/CS415_Final/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/HL/KQKGHLZEOL2CHD3ETKL521.uasset",
+				"/Users/keshavagarwal/CS415_Final/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/ZD/1UYMCTZGS9B9772T08W19X.uasset",
+				"/Users/keshavagarwal/CS415_Final/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/VY/SC7CBOBW1NTUDSQSGV03BK.uasset",
 				"/Users/georgesdurand/Desktop/cs415/InfiniteMatrixStarter/MyProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
 			]
 		}
