@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/nikitav2/Desktop/CS415/CS415_Final/Content/_Main/BluePrints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/nikitav2/Desktop/CS415/CS415_Final/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/nikitav2/Desktop/CS415/CS415_Final/Content/_Main/Maps/Stylized_Egypt_Demo.umap",
+				"C:/Users/nikitav2/Desktop/CS415/CS415_Final/Content/_Main/WasteLander/WasteLander.uasset",
+				"C:/Users/nikitav2/Desktop/CS415/CS415_Final/Content/Unique_Creature_V2/Assets/Animations/AS_Twisted_Head_Dying_1_Montage.uasset",
 				"C:/Users/gdurand2/CS415_Final/Content/_Main/Maps/Stylized_Egypt_Demo.umap",
 				"C:/Users/gdurand2/CS415_Final/Content/_Main/BluePrints/BP_AmmoPickup.uasset",
 				"C:/Users/gdurand2/CS415_Final/Content/_Main/BluePrints/BP_FirstPersonCharacter.uasset",
